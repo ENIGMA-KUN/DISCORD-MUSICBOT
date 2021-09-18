@@ -1,14 +1,14 @@
 # Music-bot
 
-## Migrating to v5...
+## ENIGMAVERSE MUS
 
-Music-Bot has not been migrated to Discord Player v5 yet! It's on the way, feel free to add a star to this repository to show your support. In the meantime, you should use **[discord-music-bot](https://github.com/Androz2091/discord-music-bot)**. Please do not spam issues here as it should have probably been resolved in the new repo. Thanks.
+Music-Bot has not been migrated to Discord Player v5 yet! It's on the way, feel free to add a star to this repository to show your support. In the meantime, you should use **[discord-music-bot](https://github.com/ENIGMA-KUN/DISCORD-MUSICBOT)**. Please do not spam issues here as it should have probably been resolved in the new repo. Thanks.
 
 A complete code to download for a music bot. Using a module (discord-player) 🎧
 
 Looking for a code for a music bot ? This fully open source code is made for your project !
 
-If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/5cGSYV8ZZj).
+If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/ENIGMAVERSE).
 
 ### ⚡ Installation
 
@@ -86,6 +86,6 @@ debug, see number of voice connections.
 
 ### 🏓 Utilities (to change the code)
 
-Find all the functions available on the official code [right here](https://github.com/Androz2091/discord-player).
+Find all the functions available on the official code [right here](https://github.com/ENIGMA-KUN/DISCORD-MUSICBOT).
 
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
